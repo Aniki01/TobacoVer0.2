@@ -305,6 +305,7 @@ main {
     box-sizing: border-box;
     padding: 24px 45px 35px 24px;
     cursor: pointer;
+    transition: background-color 0.3s;
 }
 
 .videos .same-videos .about-video:hover {
