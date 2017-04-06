@@ -230,6 +230,10 @@ header {
     background-color: rgba(106,112,116,0.05);
 }
 
+.sidebar .latest-publics .content .news:hover{
+    background-color: rgba(106,112,116,0.1);
+}
+
 .sidebar .latest-publics .content .news img {
     box-sizing: border-box;
     float: left;
@@ -358,6 +362,7 @@ main {
 
 .about-site {
     margin-top: 37px;
+    background-color: rgba(106,112,116,0.05);
 }
 .about-site > h2 {
     position: relative;
@@ -392,7 +397,6 @@ main {
     line-height: 22px;
     color: 444444;
     text-indent: 35px;
-    background-color: rgba(106,112,116,0.05);
 }
 
 
