@@ -13,7 +13,7 @@ function switchVideo(){
             elements[i].classList.remove("active-about-video");
         }else {
             elements[i].classList.add("active-about-video");
-            player.src = srcForVideosOnMaiPage[2];
+            player.src = srcForVideosOnMaiPage[i];
         }
     }
 }
